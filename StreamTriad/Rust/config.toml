@@ -1,0 +1,6 @@
+[build]
+jobs = 1
+
+[profile.release]
+lto = true
+opt-level = 3
